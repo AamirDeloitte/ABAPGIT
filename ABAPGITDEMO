@@ -1,0 +1,2 @@
+REPORT Z_TESTABAP_GIT.
+WRITE : 'This is an integratiob between R/3 and Github'
